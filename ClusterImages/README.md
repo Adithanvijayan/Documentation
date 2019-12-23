@@ -12,3 +12,9 @@ py deploy.py
 ```
 py manage.py runserver or python manage.py runserver
 ```
+* Now go to localhost:8000
+#### Navlinks And Their Functionalities:
+1. Folder Creation
+    * Type the name of the folder name inside the Create Album Card
+    * Click create to a folder inside the Phosphene-Users Bucket
+    
